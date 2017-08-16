@@ -1,0 +1,17 @@
+﻿<Window x:Class="phonebook_app.deleteWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:phonebook_app"
+        mc:Ignorable="d"
+        Title="deleteWindow" Height="300" Width="300">
+    <Grid>
+        <Label x:Name="label" Content="Remove Contact - Fill in one of the fields below" HorizontalAlignment="Left" Margin="15,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="StaffIDBox" HorizontalAlignment="Left" Height="23" Margin="91,55,0,0" TextWrapping="Wrap" Text="StaffID" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="fNameBox" HorizontalAlignment="Left" Height="23" Margin="91,88,0,0" TextWrapping="Wrap" Text="First Name" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="lNameBox" HorizontalAlignment="Left" Height="23" Margin="91,123,0,0" TextWrapping="Wrap" Text="Last Name" VerticalAlignment="Top" Width="120" TextChanged="lNameBox_TextChanged"/>
+        <Button x:Name="DeleteBtn" Content="Delete" HorizontalAlignment="Left" Margin="114,179,0,0" VerticalAlignment="Top" Width="75" Click="DeleteBtn_Click"/>
+
+    </Grid>
+</Window>

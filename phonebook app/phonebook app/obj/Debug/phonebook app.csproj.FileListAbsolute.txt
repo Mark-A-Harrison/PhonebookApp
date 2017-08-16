@@ -1,0 +1,59 @@
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\bin\Debug\phonebook app.exe.config
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\phonebook app.csprojResolveAssemblyReference.cache
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\phonebook app.csproj.phonebook app.exe.config
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\MainWindow.g.cs
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\searchWindow.g.cs
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\App.g.cs
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\phonebook app_MarkupCompile.cache
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\phonebook app_MarkupCompile.lref
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\bin\Debug\phonebook app.exe
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\bin\Debug\phonebook app.pdb
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\bin\Debug\MySql.Data.dll
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\bin\Debug\MySql.Data.Entity.EF5.dll
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\bin\Debug\MySql.Data.Entity.EF6.dll
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\bin\Debug\MySql.Fabric.Plugin.dll
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\bin\Debug\MySql.Web.dll
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\MainWindow.baml
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\searchWindow.baml
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\phonebook app.g.resources
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\phonebook_app.Properties.Resources.resources
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\phonebook app.csproj.GenerateResource.Cache
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\phonebook app.exe
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\phonebook app.pdb
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\addWindow.g.cs
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\deleteWindow.g.cs
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\editWindow.g.cs
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\addWindow.baml
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\deleteWindow.baml
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\editWindow.baml
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\editContact.g.cs
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\EditForm.g.cs
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\editContact.baml
+\\fs-home-n\home-013\eeu27a\my documents\visual studio 2015\Projects\phonebook app\phonebook app\obj\Debug\EditForm.baml
+C:\Users\Mark\Desktop\phonebook app\phonebook app\bin\Debug\phonebook app.exe.config
+C:\Users\Mark\Desktop\phonebook app\phonebook app\bin\Debug\phonebook app.exe
+C:\Users\Mark\Desktop\phonebook app\phonebook app\bin\Debug\phonebook app.pdb
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\phonebook app.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\phonebook app.csproj.phonebook app.exe.config
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\addWindow.g.cs
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\deleteWindow.g.cs
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\editContact.g.cs
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\EditForm.g.cs
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\editWindow.g.cs
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\MainWindow.g.cs
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\searchWindow.g.cs
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\App.g.cs
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\phonebook app_MarkupCompile.cache
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\phonebook app_MarkupCompile.lref
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\addWindow.baml
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\deleteWindow.baml
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\editContact.baml
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\EditForm.baml
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\editWindow.baml
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\MainWindow.baml
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\searchWindow.baml
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\phonebook app.g.resources
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\phonebook_app.Properties.Resources.resources
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\phonebook app.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\phonebook app.exe
+C:\Users\Mark\Desktop\phonebook app\phonebook app\obj\Debug\phonebook app.pdb
